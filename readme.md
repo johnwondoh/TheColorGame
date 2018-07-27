@@ -1,0 +1,5 @@
+This game demonstrates the use of vanilla JavaScript for manipulation of the DOM. It focuses primarily on front-end development and does not rely on any backend technologies. It is a single page app where users are asked to select the correct colour among a set of colours based on its RGB value. 
+
+The game has a hard and easy mode. In the hard mode, the user has to select the right colour from six different colours, while the easy mode has three colours to select from. A wrong selection will cause the colour to disappear. The right selection will turn the background of the header and all remaining colours in the set to the right colour. 
+
+After completing a game. The user will be asked if they want to play again. If they select yes, then the game will be reinitialized with a new set of colours and a new RGB to determine. 
